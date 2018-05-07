@@ -11,7 +11,7 @@ Goals:
 1. Use the Angular CLI to create a dashboard module.
 
 ```
-ng generate module dashboard
+ng generate module dashboard --routing
 ```
 
 (On StackBlitz, right-click the app folder and choose to generate a
