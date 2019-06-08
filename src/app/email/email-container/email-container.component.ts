@@ -4,4 +4,4 @@ import { Component } from '@angular/core';
   selector: 'app-email',
   templateUrl: './email-container.component.html'
 })
-export class EmailContainerComponent { }
+export class EmailContainerComponent {}

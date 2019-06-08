@@ -4,4 +4,4 @@ import { Component } from '@angular/core';
   selector: 'message-display',
   templateUrl: './message-display.component.html'
 })
-export class MessageDisplayComponent { }
+export class MessageDisplayComponent {}

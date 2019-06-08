@@ -4,4 +4,4 @@ import { Component } from '@angular/core';
   selector: 'folder-item',
   templateUrl: './folder-item.component.html'
 })
-export class FolderItemComponent { }
+export class FolderItemComponent {}

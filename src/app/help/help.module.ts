@@ -9,12 +9,7 @@ const routes: Routes = [
 ];
 
 @NgModule({
-  declarations: [
-    HelpScreenComponent
-  ],
-  imports: [
-    CommonModule,
-    RouterModule.forChild(routes)
-  ]
+  declarations: [HelpScreenComponent],
+  imports: [CommonModule, RouterModule.forChild(routes)]
 })
-export class HelpModule { }
+export class HelpModule {}
