@@ -4,9 +4,7 @@ import { RouterModule, Routes } from '@angular/router';
 
 import { HelpScreenComponent } from './help.component';
 
-const routes: Routes = [
-  { path: '', component: HelpScreenComponent, pathMatch: 'full' }
-];
+const routes: Routes = [{ path: '', component: HelpScreenComponent }];
 
 @NgModule({
   declarations: [HelpScreenComponent],
