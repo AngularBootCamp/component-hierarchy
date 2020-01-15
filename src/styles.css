@@ -178,3 +178,9 @@ a.btn-floating {
   font-size: 1.3rem;
   line-height: inherit;
 }
+.simple-card {
+  background-color: white;
+  border: 1px solid #b6b6b6;
+  padding: 3px;
+  margin: 3px;
+}
