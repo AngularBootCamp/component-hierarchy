@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'message-body',
+  selector: 'app-message-body',
   templateUrl: './message-body.component.html'
 })
 export class MessageBodyComponent {}

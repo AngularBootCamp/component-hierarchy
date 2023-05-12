@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'folder-list',
+  selector: 'app-folder-list',
   templateUrl: './folder-list.component.html'
 })
 export class FolderListComponent {}
