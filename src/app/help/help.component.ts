@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-help-screen',
-  templateUrl: './help.component.html'
+  templateUrl: './help.component.html',
+  standalone: true
 })
-export class HelpScreenComponent {}
+export default class HelpScreenComponent {}
